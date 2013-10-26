@@ -97,7 +97,12 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+.mainContainer {
+	font: "Times New Roman", Times, serif;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
 
 
 
